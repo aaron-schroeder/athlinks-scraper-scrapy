@@ -7,4 +7,7 @@ __pycache__/
 data/
 leadville/
 horsetooth/
-NOTES.md
+.idea/**
+athletes.json
+metadata.json
+tests/_trial_temp/test.log
